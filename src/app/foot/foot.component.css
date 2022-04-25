@@ -1,0 +1,17 @@
+.row {
+    background-color: #040409;
+    color: #ffffff;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 24x;
+}
+
+.icon {
+    color: #3f4ae4;
+    font-family: 'Montserrat', sans-serif;
+}
+
+@media only screen and (max-width: 600px) {
+    .row {
+        font-size: 10x;
+    }
+}

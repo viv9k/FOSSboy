@@ -1,0 +1,22 @@
+.card {
+    background-color: transparent;
+    border: none;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.card-header {
+    background-color: #3f4ae4;
+    border: none;
+    color: #ffffff;
+    font-size:24px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+h3 {
+    font-size: 18px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.content {
+    border-bottom: 1px solid #3f4ae4;
+}
